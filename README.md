@@ -7,3 +7,5 @@ The goal of this project is to design a workflow were the methodology is built o
   3. Explore the behavior of each variable, and interactions between variables.
   4. Modeling using WEKA and MLib.
   5. Conclusions and proposals.
+
+The project is explained in the file "Diabetes.pdf".
