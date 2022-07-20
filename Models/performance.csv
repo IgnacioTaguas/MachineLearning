@@ -1,0 +1,8 @@
+Methods,CCA,KNN,HD,EM
+Naive Bayes,0.659,0.677,0.645,0.668
+Multilayer Perceptron,0.682,0.696,0.691,0.728
+Logistic Regression,0.783,0.774,0.770,0.774
+Rule Induction,0.865,0.855,0.885,0.865
+Decision Tree,0.959,0.940,0.972,0.968
+Random Forest,0.972,0.963,0.945,0.959
+Gradient Boosted Tree,0.982,0.926,0.931,0.912
